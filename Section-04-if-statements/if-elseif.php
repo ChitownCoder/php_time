@@ -10,7 +10,7 @@ $d = FALSE;
 
 if ($a > $b) { // if true
     echo "is greater than"; // do this
-} else if ($a < $b) { // if this is also true
+} else if ($a < $b) { // else this is true
     echo "is less than"; // do this 
 } else { // if not true 
     echo "is equal to"; // do this
